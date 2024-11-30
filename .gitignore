@@ -10,3 +10,6 @@ src/test.ts
 src/test-files.ts
 src/tests
 src/scripts
+launch.json
+src/context/language/__pycache__
+src/context/language/python-parser-test.ipynb
