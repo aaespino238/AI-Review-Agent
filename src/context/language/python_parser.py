@@ -17,7 +17,6 @@ def node_to_enclosing_context(node):
 class PythonParser:
     def __init__(self):
         self.largest_size = 0
-        self.largest_enclosing_context = None
         self.start = None
         self.end = None
 
